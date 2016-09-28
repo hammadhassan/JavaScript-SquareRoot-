@@ -1,0 +1,12 @@
+.border {
+    margin: 0 auto;
+    background-color: lightseagreen;
+    width: 250px;
+    height: 500px
+    border: 2px double black;
+}
+table {
+    border: 2px double black;
+    background-color: snow;
+    margin: 0 auto;
+}
